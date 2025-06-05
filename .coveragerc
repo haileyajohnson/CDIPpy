@@ -1,0 +1,6 @@
+[run]
+source = cdippy
+
+omit = 
+    **/__pycache__/*
+    **/__init__.py

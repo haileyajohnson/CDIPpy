@@ -3,7 +3,8 @@
 .vscode
 .idea
 .DS_Store
+.coverage
 
-# build files
+# built files
 **/*.egg-info
 **/__pycache__
